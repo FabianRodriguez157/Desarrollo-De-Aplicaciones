@@ -1,2 +1,2 @@
-# Desarrollo
- desarrollo de aplicaciones
+# Desarrollo de aplicaciones
+  Curso desarrollo de aplicaciones - Grupo 1
