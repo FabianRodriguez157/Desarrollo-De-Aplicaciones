@@ -1,2 +1,0 @@
-# Desarrollo
- desarrollo de aplicaciones
